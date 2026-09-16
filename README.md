@@ -22,5 +22,4 @@ git status
 
 Leave the following line unchanged until your instructor starts the controlled merge-conflict exercise.
 
-Favorite Git Command: git status and git diff
-:I
+Favorite Git Command: git diff
